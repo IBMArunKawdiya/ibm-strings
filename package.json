@@ -2,7 +2,7 @@
   "name": "ibm-strings",
   "version": "0.1.4",
   "description": "A module for internationalization of strings.",
-  "repository": "https://github.ibm.com/bjustin/ibm-strings",
+  "repository": "https://github.com/IBMArunKawdiya/ibm-strings",
   "main": "index.js",
   "scripts": {},
   "keywords": [
