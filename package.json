@@ -1,5 +1,5 @@
 {
-  "name": "ibm-strings",
+  "name": "mfp-strings",
   "version": "0.1.4",
   "description": "A module for internationalization of strings.",
   "repository": "https://github.com/IBMArunKawdiya/mfp-strings",
