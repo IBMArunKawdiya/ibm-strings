@@ -1,5 +1,5 @@
 {
-  "name": "ibm-strings-example",
+  "name": "mfp-strings-example",
   "version": "0.0.0",
   "description": "Demonstrate how to use ibm-strings to present internationalized messages.",
   "author": {
@@ -13,11 +13,11 @@
     "nls"
   ],
   "keywords": [
-    "ibm-strings-example",
+    "mfp-strings-example",
     ""
   ],
   "dependencies": {
-    "ibm-strings": "^0.1.0"
+    "mfp-strings": "^1.0.0"
   },
   "devDependencies": {
     "grunt-cli": "^0.1.13",
