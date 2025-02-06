@@ -4,7 +4,7 @@
 ## Usage
 
 ```javascript
-var strings = require('ibm-strings');
+var strings = require('mfp-strings');
 var path = require('path');
 
 // load up the nls folder
@@ -52,7 +52,7 @@ where the positional index of the arguments passed into the format() function de
 
 ## Examples
 
-Please see the [example](example) project to see ibm-strings in action.
+Please see the [example](example) project to see mfp-strings in action.
 
 ## License
 
