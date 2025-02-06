@@ -1,6 +1,6 @@
 'use strict';
 
-var strings = require('ibm-strings');
+var strings = require('mfp-strings');
 var path = require('path');
 
 // load up the nls folder
