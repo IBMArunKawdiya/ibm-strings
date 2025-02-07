@@ -1,6 +1,6 @@
 {
   "name": "mfp-strings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for internationalization of strings.",
   "repository": "https://github.com/IBMArunKawdiya/mfp-strings",
   "main": "index.js",
